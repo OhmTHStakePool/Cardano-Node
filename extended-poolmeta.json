@@ -1,7 +1,7 @@
 {
     "info": {
         "url_png_icon_64x64": "<a href='https:\/\/github.com\/OhmTHStakePool\/Cardano-Node\/raw\/master\/THStakePool%20logo%20square%2064.png' width='64'></a>",
-        "url_png_logo": "<a href='https:\/\/github.com\/OhmTHStakePool\/Cardano-Node\/raw\/master\/THStakePool%20logo%20square.png'></a>",
+        "url_png_logo": "<a href='https:\/\/github.com\/OhmTHStakePool\/Cardano-Node\/raw\/master\/THStakePool%20logo%20square.png' width='64'></a>",
         "location": "Songkla, Thailand",
         "social": {
             "twitter_handle": "",
