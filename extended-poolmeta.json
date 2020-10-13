@@ -5,15 +5,15 @@
         "location": "Songkla, Thailand",
         "social": {
             "twitter_handle": "",
-            "telegram_handle": "https://t.me/THStakePool",
-            "facebook_handle": "https://www.facebook.com/THStakePool",
+            "telegram_handle": "https://t.me/SabaiFinance",
+            "facebook_handle": "https://www.facebook.com/SabaiFinance",
             "youtube_handle": "https://www.youtube.com/channel/UCtaEov-VEO65hRskSPqEk1w",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
         },
         "company": {
-            "name": "THStakePool",
+            "name": "Sabai Finance",
             "addr": "Nipatutit2",
             "city": "Songkla",
             "country": "Thailand",
@@ -21,7 +21,7 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Hi My name is Ohm(@anarupon). We are running our pools in distributed datacenter around the world. We aimed to build blockchain community to have more adoptions and help ADA to secure network. We have commitment for long run for ADA💪. Come to join us by delegating to our ticker ****THSTK****",
+            "me": "Hi My name is Ohm(@anarupon). We are running our pools in distributed datacenter around the world. We aimed to build blockchain community to have more adoptions and help ADA to secure network. We have commitment for long run for ADA💪. Come to join us by delegating to our ticker ****SABAI****",
             "server": "We put our hosted in various datacenter in difference region with host redundancy and more relay nodes with monitoring tools.",
             "company": "🇹🇭 We are a trusted staking provider 😎. Our services help secure various proof-of-stake blockchains and generate financial rewards for our users. We provided validator service for various cryptocurrency included ADA💵."
         },
